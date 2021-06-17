@@ -204,11 +204,11 @@ Copyright 2010 by TalkingTrends (Amsterdam, The Netherlands)
   <properties>
     <icu.version>4.8</icu.version>
     <zookeeper.version>3.4.5</zookeeper.version>
-    <sesame.version>2.7.12</sesame.version>
+    <sesame.version>2.8.10</sesame.version>
     <jsonld.version>0.5.1</jsonld.version>
     <semargl.version>0.6.1</semargl.version>
     <slf4j.version>1.6.1</slf4j.version>
-    <jetty.version>9.2.3.v20140905</jetty.version>
+    <jetty.version>9.2.27.v20190403</jetty.version>
     <servlet.version>3.1.0</servlet.version>
     <lucene.version>5.5.0</lucene.version>
     <apache.commons_codec.version>1.4</apache.commons_codec.version>
@@ -219,7 +219,7 @@ Copyright 2010 by TalkingTrends (Amsterdam, The Netherlands)
     <apache.httpclient.version>4.4</apache.httpclient.version>
     <apache.httpclient_cache.version>4.4</apache.httpclient_cache.version>
     <apache.httpcore.version>4.4</apache.httpcore.version>
-    <apache.httpmime.version>4.4</apache.httpmime.version>
+    <apache.httpmime.version>4.5.13</apache.httpmime.version>
     <highscalelib.version>1.1.2</highscalelib.version>
     <log4j.version>1.2.17</log4j.version>
     <colt.version>${project.version}</colt.version>
