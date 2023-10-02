@@ -16,7 +16,7 @@
         </license>
     </licenses>
     <properties>
-        <slf4j.version>1.7.7</slf4j.version>
+        <slf4j.version>1.7.34</slf4j.version>
         <solr.version>4.3.0</solr.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
